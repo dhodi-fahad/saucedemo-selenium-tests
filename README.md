@@ -26,6 +26,6 @@ Each page has a dedicated class with methods for
 interacting with its elements.
 
 ### Disclaimer
-This project is for educational purposes only and does not represent 
+This project is for demo purposes only and does not represent 
 a complete e-commerce automation solution. It focuses on demonstrating 
 basic Selenium testing techniques with the POM.
